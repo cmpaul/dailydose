@@ -1,6 +1,8 @@
 # dailydose
 Lambda that emails my news digest on a daily basis.
 
+![Sample email](/cmpaul/dailydose/blob/master/screenshot.png?raw=true "Sample email")
+
 ## Installation
 
 1. Install [apex](http://apex.run/)
