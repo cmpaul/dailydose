@@ -1,7 +1,7 @@
 # dailydose
 Lambda that emails my news digest on a daily basis.
 
-![Sample email](/cmpaul/dailydose/blob/master/screenshot.png?raw=true "Sample email")
+![Sample email](/screenshot.png?raw=true "Sample email")
 
 ## Installation
 
