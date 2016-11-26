@@ -1,0 +1,8 @@
+{
+  "name": "dailydoser",
+  "description": "Good news, everybody!",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::485613107428:role/dailydoser_lambda_function",
+  "environment": {}
+}
