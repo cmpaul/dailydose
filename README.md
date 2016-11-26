@@ -1,7 +1,7 @@
 # dailydose
 Lambda that emails my news digest on a daily basis.
 
-![Sample email](/screenshot.png?raw=true "Sample email")
+<img src="/screenshot.png?raw=true" width="300" alt="Sample email" title="Sample email" />
 
 ## Installation
 
