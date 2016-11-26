@@ -14,3 +14,10 @@ Lambda that emails my news digest on a daily basis.
         -s FROM_ADDR=<SENDER_EMAIL> \
         -s TO_ADDR=<RECIPIENT_EMAIL>
     ```
+
+## TODO
+* [ ] Use an HTML template
+* [ ] Get env.json working so I can remove the command line environment variable params
+* [ ] Get a text version of the email working
+* [ ] Move `sources` out of file
+* [ ] DRY out index.js
