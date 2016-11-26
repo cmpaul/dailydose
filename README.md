@@ -3,7 +3,7 @@ Lambda that emails my news digest on a daily basis.
 
 ## Installation
 
-1. Install apex.
+1. Install [apex](http://apex.run/).
 1. Create an IAM policy and user.
 1. Deploy to AWS
 
