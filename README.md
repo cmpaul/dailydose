@@ -20,3 +20,4 @@ Lambda that emails my news digest on a daily basis.
 * [ ] Get a text version of the email working
 * [ ] Move `sources` out of file
 * [ ] DRY out index.js
+* [ ] Slackbot
