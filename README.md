@@ -21,3 +21,4 @@ Lambda that emails my news digest on a daily basis.
 * [ ] Move `sources` out of file
 * [ ] DRY out index.js
 * [ ] Slackbot
+* [ ] Recommendation service based on links clicked
